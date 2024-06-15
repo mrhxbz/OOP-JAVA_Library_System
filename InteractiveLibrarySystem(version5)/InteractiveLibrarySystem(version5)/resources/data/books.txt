@@ -1,0 +1,10 @@
+15::Pride and Prejudice::Jane Austen::1813::T.Egerton, Whitehall::true::
+23::Nineteen Eighty-Four::George Orwell::1949::Secker & Warburg::true::
+42::The Hitchhiker's Guide to the Galaxy::Douglas Adams::1979::Pan Books::true::
+43::The War of The Worlds::H.G. Wells::1898::William Heinemann::true::
+44::One Piece::Eiichiro Oda::1997::Shueisha::true::
+45::National Trust: Nature Origami::Clover Robin::2018::Nosy Crow Ltd::true::
+46::vv: Unknown::Calvin Sam::2018::All Star Ltd::true::
+47::vv: Unknown::Calvin Sam::2018::All Star Ltd::true::
+48::vv: Unknown::Calvin Sam::2018::All Star Ltd::true::
+49::vv: Unknown::Calvin Sam::2018::All Star Ltd::true::
